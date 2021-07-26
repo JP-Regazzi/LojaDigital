@@ -1,0 +1,39 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVC3JMV2p2t2lveLwt2UfKj-prOAGHMe_e7mV2qEzz-6_-ocnasiYXvfIeDzDQJOCCLeVQ1pY&usqp=CAc",
+      "name":"Refrigerador Eletrolux",
+      "description": "Degelo Prático - Branco",
+      "price": 1299
+    },
+    {
+      "id": 2,
+      "photo": "https://www.havan.com.br/media/catalog/product/cache/820af7facfa7aca6eb3c138e3457dc8d/n/o/notebook-positivo-duo-celeron-4gb-128gb-de-ssd-win10-11-6_467219.jpg",
+      "name":"Notebook Positivo",
+      "description": "Duo Celeron/4Gb/128Gb - Cinza",
+      "price": 2199
+    },
+    {
+      "id": 3,
+      "photo": "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/s/m/smart-tv-led-42-full-hd-ptv42g70n5cf-philco_504200.jpg",
+      "name":"Smart Tv Led",
+      "description": "42'' Full-Hd - Bivolt",
+      "price": 1999
+    },
+    {
+      "id": 4,
+      "photo": "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/j/o/jogo-de-cama-casal-malha-3-pecas-yaris_518392.jpg",
+      "name":"Jogo de Cama Casal",
+      "description": "3 Peças Malha Yaris",
+      "price": 69
+    },
+    {
+      "id": 5,
+      "photo": "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/c/e/celular-smartphone-galaxy-a12-64gb-6-5-samsung_442003.jpg",
+      "name":"Smartphone Galaxy A12",
+      "description": "64Gb 6,5'' Samsung - Azul",
+      "price": 1499
+    }
+  ]  
+}
